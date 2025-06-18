@@ -1,4 +1,4 @@
-# Disease-Prediction-Web-App
+# Heart Disease-Prediction-Web-App
 🚀 Heart Disease Prediction Web App - Machine Learning in Healthcare
 
 I've developed an end-to-end machine learning application that predicts heart disease risk based on patient clinical data. This project demonstrates practical AI implementation in healthcare diagnostics.
